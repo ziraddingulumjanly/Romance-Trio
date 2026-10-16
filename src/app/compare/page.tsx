@@ -1,5 +1,5 @@
-import { sitePath } from '@/lib/site-path';
 'use client';
+import { sitePath } from '@/lib/site-path';
 import {useEffect,useMemo,useState} from 'react';
 import {Search,ArrowRight,BookOpen,Lightbulb} from 'lucide-react';
 import {WORDS,findWord,searchWords,TOPICS} from '@/lib/vocabulary';
