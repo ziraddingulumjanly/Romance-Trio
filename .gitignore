@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.vscode/
+coverage/
+*.tsbuildinfo
+content/import_candidates.tsv
+
+# Actual source corpora (downloaded by the user, not distributed in ZIP)
+content/source_dictionaries/
+content/import_candidates.tsv
+content/import_report.json

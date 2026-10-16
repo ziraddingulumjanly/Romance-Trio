@@ -1,0 +1,6 @@
+import Link from 'next/link';
+import {ArrowRight,BookOpen,Lightbulb,Languages} from 'lucide-react';
+import {GRAMMAR} from '@/data/grammar';
+import {TopicIcon} from '@/components/Icon';
+export const metadata={title:'Grammar Hub'};
+export default function GrammarHub(){return <div className="container inner-page"><div className="page-intro"><span className="eyebrow"><Languages size={15}/> ENGLISH → FRENCH · ITALIAN · SPANISH</span><h1>The grammar <em>comparison hub.</em></h1><p>Understand the patterns connecting three Romance languages. Choose a lesson and compare every rule side by side.</p></div><div className="page-statline"><span><BookOpen size={18}/> {GRAMMAR.length} illustrated lessons</span><span><Lightbulb size={18}/> Practical usage notes</span><span>🇬🇧 English is always your starting point</span></div><div className="grammar-grid">{GRAMMAR.map((g,i)=><Link href={'/grammar/'+g.slug+'/'} className={'grammar-card tone-'+g.color} key={g.slug}><div className="grammar-card-top"><span className="category-icon"><TopicIcon name={g.icon} size={26}/></span><small>{String(i+1).padStart(2,'0')} / {GRAMMAR.length}</small></div><span className="eyebrow">{g.eyebrow}</span><h2>{g.title}</h2><p>{g.description}</p><span className="text-link">Explore lesson <ArrowRight size={16}/></span></Link>)}</div></div>}

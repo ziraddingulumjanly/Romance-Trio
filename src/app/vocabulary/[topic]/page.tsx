@@ -1,0 +1,9 @@
+import Link from 'next/link';
+import {notFound} from 'next/navigation';
+import {ArrowLeft,ArrowRight,BookOpen} from 'lucide-react';
+import {TOPICS,byTopic} from '@/lib/vocabulary';
+import WordTable from '@/components/WordTable';
+import {TopicIcon} from '@/components/Icon';
+export function generateStaticParams(){return TOPICS.map(t=>({topic:t.slug}))}
+export async function generateMetadata({params}:{params:Promise<{topic:string}>}){const {topic}=await params;const t=TOPICS.find(t=>t.slug===topic);return {title:t?.title??'Vocabulary'}}
+export default async function TopicPage({params}:{params:Promise<{topic:string}>}){const {topic}=await params;const t=TOPICS.find(t=>t.slug===topic);if(!t)notFound();const words=byTopic(topic);return <div className="container inner-page lesson-page"><Link href="/vocabulary/" className="back-link"><ArrowLeft size={17}/> All vocabulary topics</Link><div className="lesson-banner topic-detail-banner"><span className={'category-icon big tone-'+t.color}><TopicIcon name={t.icon} size={31}/></span><div><span className="eyebrow">VOCABULARY COLLECTION · {t.group.toUpperCase()}</span><h1>{t.title}</h1><p>{t.subtitle}. Learn {words.length} English words and any available French, Italian and Spanish translations. Missing translations display —.</p></div></div><WordTable words={words}/><div className="lesson-next"><div><span className="eyebrow">PRACTICE THIS TOPIC</span><h3>Put these words to work.</h3><p>Try a quick translation challenge, or pronounce the words aloud.</p></div><Link className="btn btn-primary" href={'/practice/?topic='+topic}>Practice now <ArrowRight size={17}/></Link></div><div className="under-note"><BookOpen size={18}/><p>These are learning-friendly translations, not substitutes for context. Many words have additional meanings and grammatical forms.</p></div></div>}

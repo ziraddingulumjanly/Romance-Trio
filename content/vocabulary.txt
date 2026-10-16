@@ -1,0 +1,524 @@
+# topic|english|french|italian|spanish
+travel|journey|voyage|viaggio|viaje
+travel|airport|aéroport|aeroporto|aeropuerto
+travel|train|train|treno|tren
+travel|ticket|billet|biglietto|billete
+travel|passport|passeport|passaporto|pasaporte
+travel|hotel|hôtel|albergo|hotel
+travel|reservation|réservation|prenotazione|reserva
+travel|map|carte|mappa|mapa
+travel|suitcase|valise|valigia|maleta
+travel|station|gare|stazione|estación
+travel|departure|départ|partenza|salida
+travel|arrival|arrivée|arrivo|llegada
+travel|destination|destination|destinazione|destino
+travel|beach|plage|spiaggia|playa
+travel|museum|musée|museo|museo
+travel|tourist|touriste|turista|turista
+food|bread|pain|pane|pan
+food|water|eau|acqua|agua
+food|cheese|fromage|formaggio|queso
+food|milk|lait|latte|leche
+food|coffee|café|caffè|café
+food|tea|thé|tè|té
+food|breakfast|petit-déjeuner|colazione|desayuno
+food|lunch|déjeuner|pranzo|almuerzo
+food|dinner|dîner|cena|cena
+food|apple|pomme|mela|manzana
+food|orange|orange|arancia|naranja
+food|chicken|poulet|pollo|pollo
+food|fish|poisson|pesce|pescado
+food|rice|riz|riso|arroz
+food|soup|soupe|zuppa|sopa
+food|restaurant|restaurant|ristorante|restaurante
+food|delicious|délicieux|delizioso|delicioso
+family|family|famille|famiglia|familia
+family|mother|mère|madre|madre
+family|father|père|padre|padre
+family|sister|sœur|sorella|hermana
+family|brother|frère|fratello|hermano
+family|daughter|fille|figlia|hija
+family|son|fils|figlio|hijo
+family|grandmother|grand-mère|nonna|abuela
+family|grandfather|grand-père|nonno|abuelo
+family|parents|parents|genitori|padres
+family|cousin|cousin|cugino|primo
+family|friend|ami|amico|amigo
+family|child|enfant|bambino|niño
+family|husband|mari|marito|marido
+family|wife|épouse|moglie|esposa
+school|school|école|scuola|escuela
+school|student|étudiant|studente|estudiante
+school|teacher|professeur|insegnante|profesor
+school|classroom|salle de classe|aula|aula
+school|lesson|leçon|lezione|lección
+school|book|livre|libro|libro
+school|notebook|cahier|quaderno|cuaderno
+school|pen|stylo|penna|bolígrafo
+school|pencil|crayon|matita|lápiz
+school|homework|devoirs|compiti|deberes
+school|exam|examen|esame|examen
+school|grade|note|voto|nota
+school|university|université|università|universidad
+school|library|bibliothèque|biblioteca|biblioteca
+school|research|recherche|ricerca|investigación
+school|education|éducation|educazione|educación
+shopping|shop|magasin|negozio|tienda
+shopping|price|prix|prezzo|precio
+shopping|money|argent|denaro|dinero
+shopping|cash|espèces|contanti|efectivo
+shopping|card|carte|carta|tarjeta
+shopping|receipt|reçu|ricevuta|recibo
+shopping|discount|réduction|sconto|descuento
+shopping|expensive|cher|costoso|caro
+shopping|cheap|bon marché|economico|barato
+shopping|size|taille|taglia|talla
+shopping|clothes|vêtements|vestiti|ropa
+shopping|shoes|chaussures|scarpe|zapatos
+shopping|jacket|veste|giacca|chaqueta
+shopping|market|marché|mercato|mercado
+shopping|customer|client|cliente|cliente
+shopping|payment|paiement|pagamento|pago
+daily|morning|matin|mattina|mañana
+daily|evening|soir|sera|tarde
+daily|night|nuit|notte|noche
+daily|today|aujourd'hui|oggi|hoy
+daily|tomorrow|demain|domani|mañana
+daily|yesterday|hier|ieri|ayer
+daily|always|toujours|sempre|siempre
+daily|never|jamais|mai|nunca
+daily|sometimes|parfois|a volte|a veces
+daily|often|souvent|spesso|a menudo
+daily|now|maintenant|adesso|ahora
+daily|later|plus tard|più tardi|más tarde
+daily|here|ici|qui|aquí
+daily|there|là|là|allí
+daily|hello|bonjour|ciao|hola
+daily|goodbye|au revoir|arrivederci|adiós
+politics|government|gouvernement|governo|gobierno
+politics|democracy|démocratie|democrazia|democracia
+politics|president|président|presidente|presidente
+politics|election|élection|elezione|elección
+politics|parliament|parlement|parlamento|parlamento
+politics|minister|ministre|ministro|ministro
+politics|citizen|citoyen|cittadino|ciudadano
+politics|constitution|constitution|costituzione|constitución
+politics|political party|parti politique|partito politico|partido político
+politics|law|loi|legge|ley
+politics|vote|vote|voto|voto
+politics|rights|droits|diritti|derechos
+politics|policy|politique publique|politica pubblica|política pública
+politics|reform|réforme|riforma|reforma
+politics|international|international|internazionale|internacional
+politics|freedom|liberté|libertà|libertad
+movies|movie|film|film|película
+movies|cinema|cinéma|cinema|cine
+movies|actor|acteur|attore|actor
+movies|actress|actrice|attrice|actriz
+movies|director|réalisateur|regista|director
+movies|scene|scène|scena|escena
+movies|screen|écran|schermo|pantalla
+movies|story|histoire|storia|historia
+movies|character|personnage|personaggio|personaje
+movies|comedy|comédie|commedia|comedia
+movies|drama|drame|dramma|drama
+movies|episode|épisode|episodio|episodio
+movies|subtitle|sous-titre|sottotitolo|subtítulo
+movies|soundtrack|bande originale|colonna sonora|banda sonora
+movies|audience|public|pubblico|público
+movies|trailer|bande-annonce|trailer|tráiler
+technology|computer|ordinateur|computer|ordenador
+technology|phone|téléphone|telefono|teléfono
+technology|internet|internet|internet|internet
+technology|website|site web|sito web|sitio web
+technology|application|application|applicazione|aplicación
+technology|software|logiciel|software|software
+technology|password|mot de passe|password|contraseña
+technology|screen|écran|schermo|pantalla
+technology|keyboard|clavier|tastiera|teclado
+technology|network|réseau|rete|red
+technology|database|base de données|banca dati|base de datos
+technology|algorithm|algorithme|algoritmo|algoritmo
+technology|artificial intelligence|intelligence artificielle|intelligenza artificiale|inteligencia artificial
+technology|machine learning|apprentissage automatique|apprendimento automatico|aprendizaje automático
+technology|security|sécurité|sicurezza|seguridad
+technology|cloud|nuage|nuvola|nube
+science|science|science|scienza|ciencia
+science|experiment|expérience|esperimento|experimento
+science|hypothesis|hypothèse|ipotesi|hipótesis
+science|theory|théorie|teoria|teoría
+science|evidence|preuve|prova|prueba
+science|data|données|dati|datos
+science|laboratory|laboratoire|laboratorio|laboratorio
+science|cell|cellule|cellula|célula
+science|energy|énergie|energia|energía
+science|gravity|gravité|gravità|gravedad
+science|planet|planète|pianeta|planeta
+science|universe|univers|universo|universo
+science|biology|biologie|biologia|biología
+science|chemistry|chimie|chimica|química
+science|physics|physique|fisica|física
+science|discovery|découverte|scoperta|descubrimiento
+health|health|santé|salute|salud
+health|doctor|médecin|medico|médico
+health|hospital|hôpital|ospedale|hospital
+health|nurse|infirmier|infermiere|enfermero
+health|medicine|médicament|medicina|medicina
+health|pain|douleur|dolore|dolor
+health|headache|mal de tête|mal di testa|dolor de cabeza
+health|fever|fièvre|febbre|fiebre
+health|appointment|rendez-vous|appuntamento|cita
+health|emergency|urgence|emergenza|emergencia
+health|exercise|exercice physique|esercizio fisico|ejercicio físico
+health|healthy|sain|sano|saludable
+health|treatment|traitement|trattamento|tratamiento
+health|patient|patient|paziente|paciente
+health|pharmacy|pharmacie|farmacia|farmacia
+health|recovery|guérison|guarigione|recuperación
+sports|sport|sport|sport|deporte
+sports|football|football|calcio|fútbol
+sports|basketball|basket-ball|pallacanestro|baloncesto
+sports|tennis|tennis|tennis|tenis
+sports|swimming|natation|nuoto|natación
+sports|team|équipe|squadra|equipo
+sports|player|joueur|giocatore|jugador
+sports|coach|entraîneur|allenatore|entrenador
+sports|match|match|partita|partido
+sports|goal|but|gol|gol
+sports|victory|victoire|vittoria|victoria
+sports|defeat|défaite|sconfitta|derrota
+sports|competition|compétition|competizione|competición
+sports|stadium|stade|stadio|estadio
+sports|champion|champion|campione|campeón
+sports|training|entraînement|allenamento|entrenamiento
+nature|nature|nature|natura|naturaleza
+nature|mountain|montagne|montagna|montaña
+nature|river|rivière|fiume|río
+nature|sea|mer|mare|mar
+nature|forest|forêt|foresta|bosque
+nature|tree|arbre|albero|árbol
+nature|flower|fleur|fiore|flor
+nature|sun|soleil|sole|sol
+nature|moon|lune|luna|luna
+nature|star|étoile|stella|estrella
+nature|sky|ciel|cielo|cielo
+nature|rain|pluie|pioggia|lluvia
+nature|snow|neige|neve|nieve
+nature|wind|vent|vento|viento
+nature|earth|terre|terra|tierra
+nature|ocean|océan|oceano|océano
+home|house|maison|casa|casa
+home|apartment|appartement|appartamento|apartamento
+home|room|pièce|stanza|habitación
+home|bedroom|chambre|camera da letto|dormitorio
+home|bathroom|salle de bains|bagno|baño
+home|kitchen|cuisine|cucina|cocina
+home|door|porte|porta|puerta
+home|window|fenêtre|finestra|ventana
+home|table|table|tavolo|mesa
+home|chair|chaise|sedia|silla
+home|bed|lit|letto|cama
+home|garden|jardin|giardino|jardín
+home|wall|mur|muro|pared
+home|floor|sol|pavimento|suelo
+home|key|clé|chiave|llave
+home|roof|toit|tetto|tejado
+work|work|travail|lavoro|trabajo
+work|job|emploi|impiego|empleo
+work|office|bureau|ufficio|oficina
+work|meeting|réunion|riunione|reunión
+work|colleague|collègue|collega|colega
+work|manager|directeur|direttore|director
+work|salary|salaire|stipendio|salario
+work|career|carrière|carriera|carrera
+work|project|projet|progetto|proyecto
+work|deadline|date limite|scadenza|fecha límite
+work|interview|entretien|colloquio|entrevista
+work|contract|contrat|contratto|contrato
+work|company|entreprise|azienda|empresa
+work|business|affaires|affari|negocios
+work|experience|expérience|esperienza|experiencia
+work|responsibility|responsabilité|responsabilità|responsabilidad
+emotions|love|amour|amore|amor
+emotions|happiness|bonheur|felicità|felicidad
+emotions|sadness|tristesse|tristezza|tristeza
+emotions|fear|peur|paura|miedo
+emotions|anger|colère|rabbia|ira
+emotions|surprise|surprise|sorpresa|sorpresa
+emotions|hope|espoir|speranza|esperanza
+emotions|pride|fierté|orgoglio|orgullo
+emotions|calm|calme|calma|calma
+emotions|nervous|nerveux|nervoso|nervioso
+emotions|happy|heureux|felice|feliz
+emotions|tired|fatigué|stanco|cansado
+emotions|excited|enthousiaste|entusiasta|emocionado
+emotions|confident|confiant|fiducioso|seguro de sí mismo
+emotions|lonely|seul|solo|solo
+emotions|grateful|reconnaissant|grato|agradecido
+colors|red|rouge|rosso|rojo
+colors|blue|bleu|blu|azul
+colors|green|vert|verde|verde
+colors|yellow|jaune|giallo|amarillo
+colors|black|noir|nero|negro
+colors|white|blanc|bianco|blanco
+colors|orange|orange|arancione|naranja
+colors|purple|violet|viola|morado
+colors|pink|rose|rosa|rosa
+colors|brown|marron|marrone|marrón
+colors|gray|gris|grigio|gris
+colors|gold|or|oro|oro
+colors|silver|argent|argento|plata
+colors|light|clair|chiaro|claro
+colors|dark|sombre|scuro|oscuro
+numbers|one|un|uno|uno
+numbers|two|deux|due|dos
+numbers|three|trois|tre|tres
+numbers|four|quatre|quattro|cuatro
+numbers|five|cinq|cinque|cinco
+numbers|six|six|sei|seis
+numbers|seven|sept|sette|siete
+numbers|eight|huit|otto|ocho
+numbers|nine|neuf|nove|nueve
+numbers|ten|dix|dieci|diez
+numbers|eleven|onze|undici|once
+numbers|twelve|douze|dodici|doce
+numbers|twenty|vingt|venti|veinte
+numbers|thirty|trente|trenta|treinta
+numbers|hundred|cent|cento|cien
+numbers|thousand|mille|mille|mil
+verbs|to be|être|essere|ser / estar
+verbs|to have|avoir|avere|tener
+verbs|to go|aller|andare|ir
+verbs|to come|venir|venire|venir
+verbs|to speak|parler|parlare|hablar
+verbs|to learn|apprendre|imparare|aprender
+verbs|to read|lire|leggere|leer
+verbs|to write|écrire|scrivere|escribir
+verbs|to eat|manger|mangiare|comer
+verbs|to drink|boire|bere|beber
+verbs|to sleep|dormir|dormire|dormir
+verbs|to live|vivre|vivere|vivir
+verbs|to work|travailler|lavorare|trabajar
+verbs|to study|étudier|studiare|estudiar
+verbs|to understand|comprendre|capire|entender
+verbs|to see|voir|vedere|ver
+verbs|to know (facts)|savoir|sapere|saber
+verbs|to want|vouloir|volere|querer
+verbs|to need|avoir besoin de|avere bisogno di|necesitar
+verbs|to make|faire|fare|hacer
+verbs|to take|prendre|prendere|tomar
+verbs|to give|donner|dare|dar
+verbs|to think|penser|pensare|pensar
+verbs|to find|trouver|trovare|encontrar
+body|head|tête|testa|cabeza
+body|face|visage|viso|cara
+body|eye|œil|occhio|ojo
+body|ear|oreille|orecchio|oreja
+body|nose|nez|naso|nariz
+body|mouth|bouche|bocca|boca
+body|hand|main|mano|mano
+body|arm|bras|braccio|brazo
+body|leg|jambe|gamba|pierna
+body|foot|pied|piede|pie
+body|heart|cœur|cuore|corazón
+body|brain|cerveau|cervello|cerebro
+body|hair|cheveux|capelli|pelo
+body|finger|doigt|dito|dedo
+body|shoulder|épaule|spalla|hombro
+body|back|dos|schiena|espalda
+city|city|ville|città|ciudad
+city|street|rue|strada|calle
+city|square|place|piazza|plaza
+city|bridge|pont|ponte|puente
+city|building|bâtiment|edificio|edificio
+city|park|parc|parco|parque
+city|traffic|circulation|traffico|tráfico
+city|bus|bus|autobus|autobús
+city|subway|métro|metropolitana|metro
+city|bicycle|vélo|bicicletta|bicicleta
+city|car|voiture|macchina|coche
+city|taxi|taxi|taxi|taxi
+city|crosswalk|passage piéton|attraversamento pedonale|paso de peatones
+city|neighborhood|quartier|quartiere|barrio
+city|address|adresse|indirizzo|dirección
+city|direction|direction|direzione|dirección
+music|music|musique|musica|música
+music|song|chanson|canzone|canción
+music|singer|chanteur|cantante|cantante
+music|musician|musicien|musicista|músico
+music|instrument|instrument|strumento|instrumento
+music|guitar|guitare|chitarra|guitarra
+music|piano|piano|pianoforte|piano
+music|violin|violon|violino|violín
+music|drums|batterie|batteria|batería
+music|concert|concert|concerto|concierto
+music|melody|mélodie|melodia|melodía
+music|rhythm|rythme|ritmo|ritmo
+music|voice|voix|voce|voz
+music|dance|danse|danza|baile
+music|album|album|album|álbum
+music|stage|scène|palco|escenario
+art|art|art|arte|arte
+art|painting|peinture|dipinto|pintura
+art|artist|artiste|artista|artista
+art|sculpture|sculpture|scultura|escultura
+art|drawing|dessin|disegno|dibujo
+art|photography|photographie|fotografia|fotografía
+art|exhibition|exposition|mostra|exposición
+art|gallery|galerie|galleria|galería
+art|portrait|portrait|ritratto|retrato
+art|landscape|paysage|paesaggio|paisaje
+art|masterpiece|chef-d'œuvre|capolavoro|obra maestra
+art|canvas|toile|tela|lienzo
+art|brush|pinceau|pennello|pincel
+art|style|style|stile|estilo
+art|architecture|architecture|architettura|arquitectura
+art|culture|culture|cultura|cultura
+history|history|histoire|storia|historia
+history|century|siècle|secolo|siglo
+history|ancient|ancien|antico|antiguo
+history|empire|empire|impero|imperio
+history|king|roi|re|rey
+history|queen|reine|regina|reina
+history|war|guerre|guerra|guerra
+history|peace|paix|pace|paz
+history|revolution|révolution|rivoluzione|revolución
+history|independence|indépendance|indipendenza|independencia
+history|archive|archive|archivio|archivo
+history|monument|monument|monumento|monumento
+history|heritage|patrimoine|patrimonio|patrimonio
+history|civilization|civilisation|civiltà|civilización
+history|memory|mémoire|memoria|memoria
+history|era|époque|epoca|época
+weather|weather|temps|tempo|tiempo
+weather|sunny|ensoleillé|soleggiato|soleado
+weather|cloudy|nuageux|nuvoloso|nublado
+weather|rainy|pluvieux|piovoso|lluvioso
+weather|snowy|enneigé|nevoso|nevado
+weather|windy|venteux|ventoso|ventoso
+weather|hot|chaud|caldo|caluroso
+weather|cold|froid|freddo|frío
+weather|warm|doux|tiepido|templado
+weather|temperature|température|temperatura|temperatura
+weather|season|saison|stagione|estación
+weather|spring|printemps|primavera|primavera
+weather|summer|été|estate|verano
+weather|autumn|automne|autunno|otoño
+weather|winter|hiver|inverno|invierno
+weather|forecast|prévisions météo|previsioni del tempo|pronóstico del tiempo
+animals|animal|animal|animale|animal
+animals|dog|chien|cane|perro
+animals|cat|chat|gatto|gato
+animals|bird|oiseau|uccello|pájaro
+animals|horse|cheval|cavallo|caballo
+animals|cow|vache|mucca|vaca
+animals|sheep|mouton|pecora|oveja
+animals|pig|cochon|maiale|cerdo
+animals|rabbit|lapin|coniglio|conejo
+animals|butterfly|papillon|farfalla|mariposa
+animals|bee|abeille|ape|abeja
+animals|lion|lion|leone|león
+animals|tiger|tigre|tigre|tigre
+animals|elephant|éléphant|elefante|elefante
+animals|bear|ours|orso|oso
+animals|wolf|loup|lupo|lobo
+relationships|conversation|conversation|conversazione|conversación
+relationships|relationship|relation|relazione|relación
+relationships|trust|confiance|fiducia|confianza
+relationships|respect|respect|rispetto|respeto
+relationships|support|soutien|sostegno|apoyo
+relationships|promise|promesse|promessa|promesa
+relationships|secret|secret|segreto|secreto
+relationships|truth|vérité|verità|verdad
+relationships|lie|mensonge|bugia|mentira
+relationships|argument|dispute|litigio|discusión
+relationships|apology|excuse|scusa|disculpa
+relationships|invitation|invitation|invito|invitación
+relationships|neighbor|voisin|vicino|vecino
+relationships|community|communauté|comunità|comunidad
+relationships|kindness|gentillesse|gentilezza|amabilidad
+relationships|friendship|amitié|amicizia|amistad
+business|economy|économie|economia|economía
+business|finance|finance|finanza|finanzas
+business|bank|banque|banca|banco
+business|investment|investissement|investimento|inversión
+business|stock market|bourse|borsa valori|bolsa de valores
+business|tax|impôt|imposta|impuesto
+business|income|revenu|reddito|ingresos
+business|cost|coût|costo|coste
+business|profit|bénéfice|profitto|beneficio
+business|loss|perte|perdita|pérdida
+business|budget|budget|bilancio|presupuesto
+business|growth|croissance|crescita|crecimiento
+business|trade|commerce|commercio|comercio
+business|industry|industrie|industria|industria
+business|currency|monnaie|valuta|moneda
+business|inflation|inflation|inflazione|inflación
+law|justice|justice|giustizia|justicia
+law|court|tribunal|tribunale|tribunal
+law|judge|juge|giudice|juez
+law|lawyer|avocat|avvocato|abogado
+law|law|loi|legge|ley
+law|legal|juridique|giuridico|jurídico
+law|contract|contrat|contratto|contrato
+law|evidence|preuve|prova|prueba
+law|witness|témoin|testimone|testigo
+law|crime|crime|crimine|crimen
+law|police|police|polizia|policía
+law|prison|prison|prigione|prisión
+law|rights|droits|diritti|derechos
+law|freedom|liberté|libertà|libertad
+law|duty|devoir|dovere|deber
+law|trial|procès|processo|juicio
+phrases|please|s'il vous plaît|per favore|por favor
+phrases|thank you|merci|grazie|gracias
+phrases|excuse me|excusez-moi|mi scusi|disculpe
+phrases|good morning|bonjour|buongiorno|buenos días
+phrases|good evening|bonsoir|buonasera|buenas tardes
+phrases|good night|bonne nuit|buonanotte|buenas noches
+phrases|how are you?|comment allez-vous ?|come sta?|¿cómo está?
+phrases|I'm fine|je vais bien|sto bene|estoy bien
+phrases|I don't understand|je ne comprends pas|non capisco|no entiendo
+phrases|could you repeat?|pouvez-vous répéter ?|può ripetere?|¿puede repetir?
+phrases|where is the station?|où est la gare ?|dov'è la stazione?|¿dónde está la estación?
+phrases|how much does it cost?|combien ça coûte ?|quanto costa?|¿cuánto cuesta?
+phrases|I would like a coffee|je voudrais un café|vorrei un caffè|quisiera un café
+phrases|I need help|j'ai besoin d'aide|ho bisogno di aiuto|necesito ayuda
+phrases|do you speak English?|parlez-vous anglais ?|parla inglese?|¿habla inglés?
+phrases|see you tomorrow|à demain|a domani|hasta mañana
+idioms|break the ice|briser la glace|rompere il ghiaccio|romper el hielo
+idioms|better late than never|mieux vaut tard que jamais|meglio tardi che mai|más vale tarde que nunca
+idioms|time flies|le temps passe vite|il tempo vola|el tiempo vuela
+idioms|cost an arm and a leg|coûter les yeux de la tête|costare un occhio della testa|costar un ojo de la cara
+idioms|once in a blue moon|tous les trente-six du mois|una volta ogni morte di papa|de Pascuas a Ramos
+idioms|it's raining cats and dogs|il pleut des cordes|piove a catinelle|llueve a cántaros
+idioms|get straight to the point|aller droit au but|andare dritto al punto|ir directo al grano
+idioms|every cloud has a silver lining|à quelque chose malheur est bon|non tutto il male vien per nuocere|no hay mal que por bien no venga
+idioms|the ball is in your court|la balle est dans votre camp|la palla è nel tuo campo|la pelota está en tu tejado
+idioms|kill two birds with one stone|faire d'une pierre deux coups|prendere due piccioni con una fava|matar dos pájaros de un tiro
+idioms|practice makes perfect|c'est en forgeant qu'on devient forgeron|la pratica rende perfetti|la práctica hace al maestro
+idioms|better safe than sorry|mieux vaut prévenir que guérir|meglio prevenire che curare|más vale prevenir que curar
+adjectives|important|important / importante|importante|importante
+adjectives|beautiful|beau / belle|bello / bella|bonito / bonita
+adjectives|interesting|intéressant / intéressante|interessante|interesante
+adjectives|different|différent / différente|differente|diferente
+adjectives|intelligent|intelligent / intelligente|intelligente|inteligente
+adjectives|possible|possible|possibile|posible
+adjectives|natural|naturel / naturelle|naturale|natural
+adjectives|easy|facile|facile|fácil
+adjectives|difficult|difficile|difficile|difícil
+adjectives|good|bon / bonne|buono / buona|bueno / buena
+adjectives|bad|mauvais / mauvaise|cattivo / cattiva|malo / mala
+adjectives|new|nouveau / nouvelle|nuovo / nuova|nuevo / nueva
+adjectives|old|vieux / vieille|vecchio / vecchia|viejo / vieja
+adjectives|young|jeune|giovane|joven
+adjectives|big|grand / grande|grande|grande
+adjectives|small|petit / petite|piccolo / piccola|pequeño / pequeña
+adjectives|long|long / longue|lungo / lunga|largo / larga
+adjectives|short|court / courte|corto / corta|corto / corta
+adjectives|fast|rapide|veloce|rápido / rápida
+adjectives|slow|lent / lente|lento / lenta|lento / lenta
+adjectives|strong|fort / forte|forte|fuerte
+adjectives|weak|faible|debole|débil
+adjectives|rich|riche|ricco / ricca|rico / rica
+adjectives|poor|pauvre|povero / povera|pobre

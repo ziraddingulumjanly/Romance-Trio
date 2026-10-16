@@ -1,0 +1,902 @@
+[
+  {
+    "id": "a1-01",
+    "level": "A1",
+    "topic": "daily",
+    "en": "Hello, how are you?",
+    "fr": "Bonjour, comment ça va ?",
+    "it": "Ciao, come stai?",
+    "es": "Hola, ¿cómo estás?",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-02",
+    "level": "A1",
+    "topic": "daily",
+    "en": "My name is Anna.",
+    "fr": "Je m'appelle Anna.",
+    "it": "Mi chiamo Anna.",
+    "es": "Me llamo Anna.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-03",
+    "level": "A1",
+    "topic": "daily",
+    "en": "I live in a small house.",
+    "fr": "J'habite dans une petite maison.",
+    "it": "Abito in una casa piccola.",
+    "es": "Vivo en una casa pequeña.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-04",
+    "level": "A1",
+    "topic": "food",
+    "en": "I would like a coffee.",
+    "fr": "Je voudrais un café.",
+    "it": "Vorrei un caffè.",
+    "es": "Quisiera un café.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-05",
+    "level": "A1",
+    "topic": "food",
+    "en": "The water is cold.",
+    "fr": "L'eau est froide.",
+    "it": "L'acqua è fredda.",
+    "es": "El agua está fría.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-06",
+    "level": "A1",
+    "topic": "travel",
+    "en": "Where is the station?",
+    "fr": "Où est la gare ?",
+    "it": "Dov'è la stazione?",
+    "es": "¿Dónde está la estación?",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-07",
+    "level": "A1",
+    "topic": "travel",
+    "en": "I have a ticket.",
+    "fr": "J'ai un billet.",
+    "it": "Ho un biglietto.",
+    "es": "Tengo un billete.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-08",
+    "level": "A1",
+    "topic": "school",
+    "en": "This is my book.",
+    "fr": "C'est mon livre.",
+    "it": "Questo è il mio libro.",
+    "es": "Este es mi libro.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-09",
+    "level": "A1",
+    "topic": "school",
+    "en": "The teacher is here.",
+    "fr": "Le professeur est ici.",
+    "it": "L'insegnante è qui.",
+    "es": "El profesor está aquí.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-10",
+    "level": "A1",
+    "topic": "family",
+    "en": "My sister is twenty.",
+    "fr": "Ma sœur a vingt ans.",
+    "it": "Mia sorella ha vent'anni.",
+    "es": "Mi hermana tiene veinte años.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-11",
+    "level": "A1",
+    "topic": "family",
+    "en": "We are a big family.",
+    "fr": "Nous sommes une grande famille.",
+    "it": "Siamo una famiglia numerosa.",
+    "es": "Somos una familia numerosa.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-12",
+    "level": "A1",
+    "topic": "daily",
+    "en": "Today is Monday.",
+    "fr": "Aujourd'hui, c'est lundi.",
+    "it": "Oggi è lunedì.",
+    "es": "Hoy es lunes.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-13",
+    "level": "A1",
+    "topic": "shopping",
+    "en": "How much does it cost?",
+    "fr": "Combien ça coûte ?",
+    "it": "Quanto costa?",
+    "es": "¿Cuánto cuesta?",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-14",
+    "level": "A1",
+    "topic": "daily",
+    "en": "I am learning French.",
+    "fr": "J'apprends le français.",
+    "it": "Sto imparando il francese.",
+    "es": "Estoy aprendiendo francés.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a1-15",
+    "level": "A1",
+    "topic": "travel",
+    "en": "I need a taxi.",
+    "fr": "J'ai besoin d'un taxi.",
+    "it": "Ho bisogno di un taxi.",
+    "es": "Necesito un taxi.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-01",
+    "level": "A2",
+    "topic": "daily",
+    "en": "I usually get up at seven.",
+    "fr": "Je me lève généralement à sept heures.",
+    "it": "Di solito mi alzo alle sette.",
+    "es": "Normalmente me levanto a las siete.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-02",
+    "level": "A2",
+    "topic": "travel",
+    "en": "We are going to visit the museum tomorrow.",
+    "fr": "Nous allons visiter le musée demain.",
+    "it": "Domani visiteremo il museo.",
+    "es": "Mañana vamos a visitar el museo.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-03",
+    "level": "A2",
+    "topic": "food",
+    "en": "Could you bring us the menu, please?",
+    "fr": "Pourriez-vous nous apporter le menu, s'il vous plaît ?",
+    "it": "Potrebbe portarci il menù, per favore?",
+    "es": "¿Podría traernos el menú, por favor?",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-04",
+    "level": "A2",
+    "topic": "school",
+    "en": "I have to finish my homework tonight.",
+    "fr": "Je dois finir mes devoirs ce soir.",
+    "it": "Devo finire i compiti stasera.",
+    "es": "Tengo que terminar mis deberes esta noche.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-05",
+    "level": "A2",
+    "topic": "daily",
+    "en": "It is raining, so I will stay home.",
+    "fr": "Il pleut, alors je vais rester à la maison.",
+    "it": "Piove, quindi resterò a casa.",
+    "es": "Está lloviendo, así que me quedaré en casa.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-06",
+    "level": "A2",
+    "topic": "shopping",
+    "en": "I am looking for a smaller size.",
+    "fr": "Je cherche une taille plus petite.",
+    "it": "Sto cercando una taglia più piccola.",
+    "es": "Estoy buscando una talla más pequeña.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-07",
+    "level": "A2",
+    "topic": "travel",
+    "en": "The train leaves in ten minutes.",
+    "fr": "Le train part dans dix minutes.",
+    "it": "Il treno parte tra dieci minuti.",
+    "es": "El tren sale dentro de diez minutos.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-08",
+    "level": "A2",
+    "topic": "family",
+    "en": "My brother works in another city.",
+    "fr": "Mon frère travaille dans une autre ville.",
+    "it": "Mio fratello lavora in un'altra città.",
+    "es": "Mi hermano trabaja en otra ciudad.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-09",
+    "level": "A2",
+    "topic": "daily",
+    "en": "Can you speak a little more slowly?",
+    "fr": "Pouvez-vous parler un peu plus lentement ?",
+    "it": "Può parlare un po' più lentamente?",
+    "es": "¿Puede hablar un poco más despacio?",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-10",
+    "level": "A2",
+    "topic": "food",
+    "en": "I have never tried this dish before.",
+    "fr": "Je n'ai jamais goûté ce plat auparavant.",
+    "it": "Non ho mai assaggiato questo piatto prima.",
+    "es": "Nunca he probado este plato antes.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-11",
+    "level": "A2",
+    "topic": "travel",
+    "en": "How long does the journey take?",
+    "fr": "Combien de temps dure le trajet ?",
+    "it": "Quanto dura il viaggio?",
+    "es": "¿Cuánto dura el viaje?",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-12",
+    "level": "A2",
+    "topic": "daily",
+    "en": "I forgot my keys at work.",
+    "fr": "J'ai oublié mes clés au travail.",
+    "it": "Ho dimenticato le chiavi al lavoro.",
+    "es": "Olvidé mis llaves en el trabajo.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-13",
+    "level": "A2",
+    "topic": "school",
+    "en": "She studies every day after school.",
+    "fr": "Elle étudie tous les jours après l'école.",
+    "it": "Studia ogni giorno dopo la scuola.",
+    "es": "Ella estudia todos los días después de clase.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-14",
+    "level": "A2",
+    "topic": "food",
+    "en": "We ordered soup and a salad.",
+    "fr": "Nous avons commandé une soupe et une salade.",
+    "it": "Abbiamo ordinato una zuppa e un'insalata.",
+    "es": "Pedimos una sopa y una ensalada.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "a2-15",
+    "level": "A2",
+    "topic": "daily",
+    "en": "I need to buy some medicine.",
+    "fr": "Je dois acheter des médicaments.",
+    "it": "Devo comprare delle medicine.",
+    "es": "Necesito comprar medicamentos.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-01",
+    "level": "B1",
+    "topic": "travel",
+    "en": "If we leave early, we will avoid the traffic.",
+    "fr": "Si nous partons tôt, nous éviterons les embouteillages.",
+    "it": "Se partiamo presto, eviteremo il traffico.",
+    "es": "Si salimos temprano, evitaremos el tráfico.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-02",
+    "level": "B1",
+    "topic": "school",
+    "en": "She explained the lesson so that everyone could understand.",
+    "fr": "Elle a expliqué la leçon pour que tout le monde puisse comprendre.",
+    "it": "Ha spiegato la lezione in modo che tutti potessero capire.",
+    "es": "Explicó la lección para que todos pudieran entender.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-03",
+    "level": "B1",
+    "topic": "daily",
+    "en": "I have been learning Spanish for almost two years.",
+    "fr": "J'apprends l'espagnol depuis presque deux ans.",
+    "it": "Studio lo spagnolo da quasi due anni.",
+    "es": "Llevo casi dos años aprendiendo español.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-04",
+    "level": "B1",
+    "topic": "work",
+    "en": "I would accept the job if the hours were more flexible.",
+    "fr": "J'accepterais ce travail si les horaires étaient plus flexibles.",
+    "it": "Accetterei il lavoro se gli orari fossero più flessibili.",
+    "es": "Aceptaría el trabajo si el horario fuera más flexible.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-05",
+    "level": "B1",
+    "topic": "travel",
+    "en": "Although it was raining, we continued our walk.",
+    "fr": "Même s'il pleuvait, nous avons continué notre promenade.",
+    "it": "Anche se pioveva, abbiamo continuato la passeggiata.",
+    "es": "Aunque llovía, continuamos nuestro paseo.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-06",
+    "level": "B1",
+    "topic": "family",
+    "en": "My parents encouraged me to study abroad.",
+    "fr": "Mes parents m'ont encouragé à étudier à l'étranger.",
+    "it": "I miei genitori mi hanno incoraggiato a studiare all'estero.",
+    "es": "Mis padres me animaron a estudiar en el extranjero.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-07",
+    "level": "B1",
+    "topic": "food",
+    "en": "This restaurant is better than I expected.",
+    "fr": "Ce restaurant est meilleur que ce à quoi je m'attendais.",
+    "it": "Questo ristorante è migliore di quanto mi aspettassi.",
+    "es": "Este restaurante es mejor de lo que esperaba.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-08",
+    "level": "B1",
+    "topic": "daily",
+    "en": "Please let me know when you arrive safely.",
+    "fr": "Préviens-moi quand tu seras bien arrivé.",
+    "it": "Fammi sapere quando arrivi sano e salvo.",
+    "es": "Avísame cuando llegues bien.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-09",
+    "level": "B1",
+    "topic": "school",
+    "en": "The exam was difficult, but I managed to pass.",
+    "fr": "L'examen était difficile, mais j'ai réussi à le passer.",
+    "it": "L'esame era difficile, ma sono riuscito a superarlo.",
+    "es": "El examen fue difícil, pero conseguí aprobarlo.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-10",
+    "level": "B1",
+    "topic": "travel",
+    "en": "The flight was delayed because of the weather.",
+    "fr": "Le vol a été retardé à cause du mauvais temps.",
+    "it": "Il volo è stato ritardato a causa del maltempo.",
+    "es": "El vuelo se retrasó debido al mal tiempo.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-11",
+    "level": "B1",
+    "topic": "work",
+    "en": "We should discuss this problem before making a decision.",
+    "fr": "Nous devrions discuter de ce problème avant de prendre une décision.",
+    "it": "Dovremmo discutere di questo problema prima di prendere una decisione.",
+    "es": "Deberíamos hablar de este problema antes de tomar una decisión.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-12",
+    "level": "B1",
+    "topic": "daily",
+    "en": "I wish I had more time to read.",
+    "fr": "J'aimerais avoir plus de temps pour lire.",
+    "it": "Vorrei avere più tempo per leggere.",
+    "es": "Ojalá tuviera más tiempo para leer.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-13",
+    "level": "B1",
+    "topic": "food",
+    "en": "If you are allergic to nuts, tell the waiter.",
+    "fr": "Si vous êtes allergique aux fruits à coque, dites-le au serveur.",
+    "it": "Se sei allergico alla frutta a guscio, dillo al cameriere.",
+    "es": "Si eres alérgico a los frutos secos, díselo al camarero.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-14",
+    "level": "B1",
+    "topic": "travel",
+    "en": "I am not sure whether this bus stops at the airport.",
+    "fr": "Je ne suis pas sûr que ce bus s'arrête à l'aéroport.",
+    "it": "Non sono sicuro che questo autobus si fermi all'aeroporto.",
+    "es": "No estoy seguro de si este autobús para en el aeropuerto.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b1-15",
+    "level": "B1",
+    "topic": "daily",
+    "en": "It took me a while to get used to the new routine.",
+    "fr": "Il m'a fallu du temps pour m'habituer à la nouvelle routine.",
+    "it": "Mi ci è voluto un po' per abituarmi alla nuova routine.",
+    "es": "Me llevó un tiempo acostumbrarme a la nueva rutina.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-01",
+    "level": "B2",
+    "topic": "politics",
+    "en": "Although the proposal sounds promising, its costs remain unclear.",
+    "fr": "Bien que la proposition semble prometteuse, ses coûts restent flous.",
+    "it": "Sebbene la proposta sembri promettente, i suoi costi restano poco chiari.",
+    "es": "Aunque la propuesta parece prometedora, sus costes siguen sin estar claros.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-02",
+    "level": "B2",
+    "topic": "science",
+    "en": "Researchers have identified several factors that may influence the results.",
+    "fr": "Les chercheurs ont identifié plusieurs facteurs susceptibles d'influencer les résultats.",
+    "it": "I ricercatori hanno individuato diversi fattori che potrebbero influenzare i risultati.",
+    "es": "Los investigadores han identificado varios factores que podrían influir en los resultados.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-03",
+    "level": "B2",
+    "topic": "work",
+    "en": "Had I known about the deadline, I would have started earlier.",
+    "fr": "Si j'avais été au courant de la date limite, j'aurais commencé plus tôt.",
+    "it": "Se avessi saputo della scadenza, avrei iniziato prima.",
+    "es": "Si hubiera sabido cuál era la fecha límite, habría empezado antes.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-04",
+    "level": "B2",
+    "topic": "travel",
+    "en": "Despite the unexpected delay, we managed to reach our destination.",
+    "fr": "Malgré ce retard imprévu, nous avons réussi à atteindre notre destination.",
+    "it": "Nonostante il ritardo imprevisto, siamo riusciti a raggiungere la destinazione.",
+    "es": "A pesar del retraso inesperado, logramos llegar a nuestro destino.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-05",
+    "level": "B2",
+    "topic": "school",
+    "en": "Students are expected to justify their arguments with reliable evidence.",
+    "fr": "Les étudiants doivent étayer leurs arguments par des preuves fiables.",
+    "it": "Gli studenti devono sostenere le proprie argomentazioni con prove affidabili.",
+    "es": "Se espera que los estudiantes respalden sus argumentos con pruebas fiables.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-06",
+    "level": "B2",
+    "topic": "movies",
+    "en": "The film raises questions about the relationship between memory and identity.",
+    "fr": "Le film soulève des questions sur le rapport entre mémoire et identité.",
+    "it": "Il film solleva interrogativi sul rapporto tra memoria e identità.",
+    "es": "La película plantea preguntas sobre la relación entre memoria e identidad.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-07",
+    "level": "B2",
+    "topic": "daily",
+    "en": "Unless we change our habits, the situation is unlikely to improve.",
+    "fr": "À moins de changer nos habitudes, il est peu probable que la situation s'améliore.",
+    "it": "A meno che non cambiamo le nostre abitudini, è improbabile che la situazione migliori.",
+    "es": "A menos que cambiemos nuestros hábitos, es poco probable que la situación mejore.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-08",
+    "level": "B2",
+    "topic": "work",
+    "en": "The manager insisted that every team member be consulted.",
+    "fr": "Le responsable a insisté pour que chaque membre de l'équipe soit consulté.",
+    "it": "Il responsabile ha insistito affinché ogni membro del gruppo fosse consultato.",
+    "es": "El responsable insistió en que se consultara a todos los miembros del equipo.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-09",
+    "level": "B2",
+    "topic": "science",
+    "en": "The experiment would be more convincing if it could be repeated independently.",
+    "fr": "L'expérience serait plus convaincante si elle pouvait être reproduite de manière indépendante.",
+    "it": "L'esperimento sarebbe più convincente se potesse essere replicato in modo indipendente.",
+    "es": "El experimento sería más convincente si pudiera reproducirse de forma independiente.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-10",
+    "level": "B2",
+    "topic": "travel",
+    "en": "Not only was the hotel expensive, but the service was disappointing.",
+    "fr": "Non seulement l'hôtel était cher, mais le service était décevant.",
+    "it": "Non solo l'hotel era costoso, ma il servizio era deludente.",
+    "es": "El hotel no solo era caro, sino que el servicio también fue decepcionante.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-11",
+    "level": "B2",
+    "topic": "family",
+    "en": "We have come to realize that our priorities have changed over time.",
+    "fr": "Nous avons fini par comprendre que nos priorités ont changé avec le temps.",
+    "it": "Ci siamo resi conto che le nostre priorità sono cambiate nel tempo.",
+    "es": "Nos hemos dado cuenta de que nuestras prioridades han cambiado con el tiempo.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-12",
+    "level": "B2",
+    "topic": "politics",
+    "en": "The decision was criticized for its lack of transparency.",
+    "fr": "La décision a été critiquée pour son manque de transparence.",
+    "it": "La decisione è stata criticata per la mancanza di trasparenza.",
+    "es": "La decisión fue criticada por su falta de transparencia.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-13",
+    "level": "B2",
+    "topic": "daily",
+    "en": "I would rather postpone the meeting than make a rushed decision.",
+    "fr": "Je préférerais reporter la réunion plutôt que de prendre une décision précipitée.",
+    "it": "Preferirei rimandare la riunione piuttosto che prendere una decisione affrettata.",
+    "es": "Preferiría posponer la reunión antes que tomar una decisión precipitada.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-14",
+    "level": "B2",
+    "topic": "food",
+    "en": "The chef adapted the recipe to accommodate guests with dietary restrictions.",
+    "fr": "Le chef a adapté la recette aux restrictions alimentaires des invités.",
+    "it": "Lo chef ha adattato la ricetta alle esigenze alimentari degli ospiti.",
+    "es": "El chef adaptó la receta a las restricciones alimentarias de los invitados.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "b2-15",
+    "level": "B2",
+    "topic": "school",
+    "en": "This approach encourages learners to reflect on how they solve problems.",
+    "fr": "Cette approche encourage les apprenants à réfléchir à leur manière de résoudre les problèmes.",
+    "it": "Questo approccio incoraggia gli studenti a riflettere su come risolvono i problemi.",
+    "es": "Este enfoque anima a los estudiantes a reflexionar sobre cómo resuelven los problemas.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-01",
+    "level": "C1",
+    "topic": "science",
+    "en": "The findings should be interpreted cautiously, given the limitations of the sample.",
+    "fr": "Les résultats doivent être interprétés avec prudence, compte tenu des limites de l'échantillon.",
+    "it": "I risultati devono essere interpretati con cautela, tenendo conto dei limiti del campione.",
+    "es": "Los resultados deben interpretarse con cautela, dadas las limitaciones de la muestra.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-02",
+    "level": "C1",
+    "topic": "politics",
+    "en": "It remains to be seen whether the reforms will deliver lasting benefits.",
+    "fr": "Reste à savoir si les réformes produiront des effets bénéfiques durables.",
+    "it": "Resta da vedere se le riforme porteranno benefici duraturi.",
+    "es": "Queda por ver si las reformas aportarán beneficios duraderos.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-03",
+    "level": "C1",
+    "topic": "work",
+    "en": "Had the risks been assessed more thoroughly, the outcome might have been different.",
+    "fr": "Si les risques avaient été évalués plus rigoureusement, le résultat aurait pu être différent.",
+    "it": "Se i rischi fossero stati valutati più a fondo, il risultato avrebbe potuto essere diverso.",
+    "es": "Si se hubieran evaluado los riesgos más a fondo, el resultado podría haber sido diferente.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-04",
+    "level": "C1",
+    "topic": "science",
+    "en": "The evidence, compelling as it may appear, does not establish a causal relationship.",
+    "fr": "Les preuves, aussi convaincantes qu'elles puissent paraître, n'établissent pas de lien de causalité.",
+    "it": "Le prove, per quanto convincenti possano sembrare, non stabiliscono un rapporto di causalità.",
+    "es": "Las pruebas, por convincentes que parezcan, no demuestran una relación causal.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-05",
+    "level": "C1",
+    "topic": "school",
+    "en": "Rather than memorizing rules, learners should develop an awareness of context.",
+    "fr": "Plutôt que de mémoriser des règles, les apprenants devraient développer une conscience du contexte.",
+    "it": "Anziché memorizzare regole, gli studenti dovrebbero sviluppare una consapevolezza del contesto.",
+    "es": "En lugar de memorizar reglas, los estudiantes deberían desarrollar una conciencia del contexto.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-06",
+    "level": "C1",
+    "topic": "movies",
+    "en": "The director deliberately leaves the ending open to multiple interpretations.",
+    "fr": "Le réalisateur laisse délibérément la fin ouverte à plusieurs interprétations.",
+    "it": "Il regista lascia deliberatamente il finale aperto a molteplici interpretazioni.",
+    "es": "El director deja deliberadamente el final abierto a múltiples interpretaciones.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-07",
+    "level": "C1",
+    "topic": "travel",
+    "en": "What struck me most was not the scenery itself, but the warmth of the people.",
+    "fr": "Ce qui m'a le plus marqué, ce n'était pas le paysage en lui-même, mais la chaleur des habitants.",
+    "it": "Ciò che mi ha colpito di più non è stato il paesaggio in sé, ma il calore della gente.",
+    "es": "Lo que más me impresionó no fue el paisaje en sí, sino la calidez de la gente.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-08",
+    "level": "C1",
+    "topic": "work",
+    "en": "The proposal warrants closer scrutiny before any resources are committed.",
+    "fr": "La proposition mérite un examen plus approfondi avant que des ressources soient engagées.",
+    "it": "La proposta merita un esame più attento prima di impegnare qualsiasi risorsa.",
+    "es": "La propuesta merece un examen más detenido antes de comprometer recursos.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-09",
+    "level": "C1",
+    "topic": "politics",
+    "en": "Even well-intentioned policies can have unintended consequences.",
+    "fr": "Même les politiques animées des meilleures intentions peuvent avoir des conséquences imprévues.",
+    "it": "Anche le politiche mosse dalle migliori intenzioni possono avere conseguenze impreviste.",
+    "es": "Incluso las políticas bienintencionadas pueden tener consecuencias imprevistas.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-10",
+    "level": "C1",
+    "topic": "daily",
+    "en": "I would appreciate it if you could clarify what you meant by that remark.",
+    "fr": "Je vous serais reconnaissant de bien vouloir préciser ce que vous entendiez par cette remarque.",
+    "it": "Le sarei grato se potesse chiarire cosa intendeva con quell'osservazione.",
+    "es": "Le agradecería que aclarara qué quiso decir con ese comentario.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-11",
+    "level": "C1",
+    "topic": "science",
+    "en": "The hypothesis cannot be ruled out, although further testing is required.",
+    "fr": "L'hypothèse ne peut être écartée, bien que des tests supplémentaires soient nécessaires.",
+    "it": "L'ipotesi non può essere esclusa, sebbene siano necessarie ulteriori verifiche.",
+    "es": "La hipótesis no puede descartarse, aunque se requieren más pruebas.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-12",
+    "level": "C1",
+    "topic": "school",
+    "en": "Assessing understanding is more demanding than measuring recall alone.",
+    "fr": "Évaluer la compréhension est plus exigeant que mesurer la simple mémorisation.",
+    "it": "Valutare la comprensione è più impegnativo che misurare il semplice ricordo.",
+    "es": "Evaluar la comprensión es más exigente que medir únicamente la memorización.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-13",
+    "level": "C1",
+    "topic": "work",
+    "en": "The negotiations stalled when neither side was willing to compromise.",
+    "fr": "Les négociations se sont enlisées lorsqu'aucune des deux parties n'a voulu faire de concessions.",
+    "it": "I negoziati si sono arenati quando nessuna delle due parti era disposta a scendere a compromessi.",
+    "es": "Las negociaciones se estancaron cuando ninguna de las partes estuvo dispuesta a ceder.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-14",
+    "level": "C1",
+    "topic": "science",
+    "en": "These observations lend support to a more nuanced interpretation of the data.",
+    "fr": "Ces observations confortent une interprétation plus nuancée des données.",
+    "it": "Queste osservazioni sostengono un'interpretazione più sfumata dei dati.",
+    "es": "Estas observaciones respaldan una interpretación más matizada de los datos.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c1-15",
+    "level": "C1",
+    "topic": "politics",
+    "en": "The measure may prove counterproductive unless accompanied by broader reforms.",
+    "fr": "La mesure pourrait s'avérer contre-productive si elle n'était pas accompagnée de réformes plus larges.",
+    "it": "La misura potrebbe rivelarsi controproducente se non fosse accompagnata da riforme più ampie.",
+    "es": "La medida podría resultar contraproducente si no va acompañada de reformas más amplias.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-01",
+    "level": "C2",
+    "topic": "politics",
+    "en": "Be that as it may, the policy raises questions that cannot simply be brushed aside.",
+    "fr": "Quoi qu'il en soit, cette politique soulève des questions que l'on ne saurait simplement balayer d'un revers de main.",
+    "it": "Comunque sia, questa politica solleva interrogativi che non possono essere semplicemente liquidati.",
+    "es": "Sea como fuere, esta política plantea cuestiones que no pueden descartarse sin más.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-02",
+    "level": "C2",
+    "topic": "science",
+    "en": "The apparent contradiction dissolves once the underlying assumptions are made explicit.",
+    "fr": "La contradiction apparente disparaît dès lors que les hypothèses sous-jacentes sont explicitées.",
+    "it": "L'apparente contraddizione svanisce una volta esplicitate le ipotesi sottostanti.",
+    "es": "La aparente contradicción desaparece una vez que se explicitan los supuestos subyacentes.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-03",
+    "level": "C2",
+    "topic": "work",
+    "en": "Far from resolving the dispute, the announcement merely added fuel to the fire.",
+    "fr": "Loin de régler le différend, l'annonce n'a fait que jeter de l'huile sur le feu.",
+    "it": "Lungi dal risolvere la controversia, l'annuncio ha soltanto gettato benzina sul fuoco.",
+    "es": "Lejos de resolver la disputa, el anuncio no hizo más que echar leña al fuego.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-04",
+    "level": "C2",
+    "topic": "school",
+    "en": "The distinction, subtle though it is, has far-reaching implications for teaching.",
+    "fr": "Cette distinction, si subtile soit-elle, a des conséquences considérables sur l'enseignement.",
+    "it": "Questa distinzione, per quanto sottile, ha implicazioni di vasta portata per l'insegnamento.",
+    "es": "La distinción, por sutil que sea, tiene profundas implicaciones para la enseñanza.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-05",
+    "level": "C2",
+    "topic": "politics",
+    "en": "It would be premature to draw sweeping conclusions from such fragmentary evidence.",
+    "fr": "Il serait prématuré de tirer des conclusions générales de preuves aussi fragmentaires.",
+    "it": "Sarebbe prematuro trarre conclusioni generali da prove così frammentarie.",
+    "es": "Sería prematuro sacar conclusiones generales de pruebas tan fragmentarias.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-06",
+    "level": "C2",
+    "topic": "movies",
+    "en": "The narrative deftly blurs the boundary between recollection and invention.",
+    "fr": "Le récit brouille habilement la frontière entre souvenir et invention.",
+    "it": "La narrazione sfuma abilmente il confine tra ricordo e invenzione.",
+    "es": "La narración difumina hábilmente la frontera entre el recuerdo y la invención.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-07",
+    "level": "C2",
+    "topic": "science",
+    "en": "The argument rests on a premise that is, at best, only partially substantiated.",
+    "fr": "L'argument repose sur une prémisse qui n'est, au mieux, que partiellement étayée.",
+    "it": "L'argomento si fonda su una premessa che, nel migliore dei casi, è solo parzialmente dimostrata.",
+    "es": "El argumento se basa en una premisa que, en el mejor de los casos, solo está parcialmente fundamentada.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-08",
+    "level": "C2",
+    "topic": "work",
+    "en": "No sooner had the agreement been signed than fresh objections emerged.",
+    "fr": "À peine l'accord avait-il été signé que de nouvelles objections ont surgi.",
+    "it": "Non appena l'accordo fu firmato, emersero nuove obiezioni.",
+    "es": "Apenas se había firmado el acuerdo cuando surgieron nuevas objeciones.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-09",
+    "level": "C2",
+    "topic": "politics",
+    "en": "The question is not so much whether change is needed as how it should be pursued.",
+    "fr": "La question n'est pas tant de savoir si un changement est nécessaire que de déterminer comment le mettre en œuvre.",
+    "it": "La questione non è tanto se sia necessario cambiare, quanto come procedere.",
+    "es": "La cuestión no es tanto si hace falta un cambio como la manera de llevarlo a cabo.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-10",
+    "level": "C2",
+    "topic": "daily",
+    "en": "He managed to convey his misgivings without casting doubt on her competence.",
+    "fr": "Il a su exprimer ses réserves sans remettre en cause ses compétences.",
+    "it": "È riuscito a esprimere le proprie perplessità senza mettere in dubbio la sua competenza.",
+    "es": "Consiguió expresar sus reservas sin poner en duda la competencia de ella.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-11",
+    "level": "C2",
+    "topic": "school",
+    "en": "For all its elegance, the theory falls short of explaining the observed variation.",
+    "fr": "Malgré toute son élégance, la théorie ne parvient pas à expliquer les variations observées.",
+    "it": "Per quanto elegante, la teoria non riesce a spiegare la variazione osservata.",
+    "es": "A pesar de su elegancia, la teoría no llega a explicar la variación observada.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-12",
+    "level": "C2",
+    "topic": "science",
+    "en": "The findings are not without merit, yet their broader significance remains contested.",
+    "fr": "Les résultats ne sont pas dénués d'intérêt, mais leur portée générale reste controversée.",
+    "it": "I risultati non sono privi di valore, ma la loro rilevanza più ampia resta controversa.",
+    "es": "Los resultados no carecen de mérito, pero su importancia más amplia sigue siendo objeto de debate.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-13",
+    "level": "C2",
+    "topic": "work",
+    "en": "Any attempt to sidestep the issue would merely postpone the inevitable reckoning.",
+    "fr": "Toute tentative d'éluder le problème ne ferait que repousser l'inévitable remise en question.",
+    "it": "Qualsiasi tentativo di eludere la questione rinvierebbe soltanto l'inevitabile resa dei conti.",
+    "es": "Cualquier intento de eludir la cuestión solo aplazaría el inevitable ajuste de cuentas.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-14",
+    "level": "C2",
+    "topic": "politics",
+    "en": "What is at stake transcends the immediate dispute and touches on fundamental principles.",
+    "fr": "L'enjeu dépasse le conflit immédiat et touche à des principes fondamentaux.",
+    "it": "La posta in gioco va oltre la controversia immediata e riguarda principi fondamentali.",
+    "es": "Lo que está en juego trasciende la disputa inmediata y afecta a principios fundamentales.",
+    "source": "Romance Trio original practice sentences"
+  },
+  {
+    "id": "c2-15",
+    "level": "C2",
+    "topic": "science",
+    "en": "The claim, however intuitively appealing, does not withstand rigorous examination.",
+    "fr": "Cette affirmation, si séduisante soit-elle à première vue, ne résiste pas à un examen rigoureux.",
+    "it": "L'affermazione, per quanto intuitivamente allettante, non regge a un esame rigoroso.",
+    "es": "La afirmación, por intuitivamente atractiva que resulte, no resiste un examen riguroso.",
+    "source": "Romance Trio original practice sentences"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "name": "romance-trio",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "lint": "eslint .",
+    "data:build": "python scripts/build_vocabulary.py && python scripts/enrich_vocab.py",
+    "data:check": "python scripts/check_content.py",
+    "data:sync": "python scripts/sync_freedict.py",
+    "data:enrich": "python scripts/enrich_vocab.py",
+    "data:starter": "python scripts/build_vocabulary.py && python scripts/enrich_vocab.py",
+    "data:test": "python -m unittest discover -s tests -v && python scripts/check_content.py",
+    "data:catalog": "python scripts/seed_catalog.py",
+    "data:coverage": "python scripts/coverage_report.py",
+    "data:editorial": "python scripts/merge_editorial.py"
+  },
+  "dependencies": {
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.5.0",
+    "@eslint/eslintrc": "^3.3.1"
+  }
+}
