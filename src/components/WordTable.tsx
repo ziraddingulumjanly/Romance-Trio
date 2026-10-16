@@ -1,5 +1,5 @@
 'use client';
-import {useMemo,useState,useEffect,Fragment} from 'react';
+import {useMemo,useState,useEffect,useCallback,Fragment} from 'react';
 import {type Word,CEFR_LEVELS,hasTranslation} from '@/lib/vocabulary';
 import {fold} from '@/lib/languages';
 import {Search,ChevronDown,ChevronUp,BookOpenCheck} from 'lucide-react';
@@ -11,9 +11,9 @@ export default function WordTable({words,searchable=true}:{words:Word[];searchab
  const [availability,setAvailability]=useState('any');
  const [visible,setVisible]=useState(60);
  const [expanded,setExpanded]=useState<string|null>(null);
- const respectsCoverage=(w:Word)=>availability==='all'||(availability==='complete'?(['fr','it','es'] as const).every(l=>hasTranslation(w[l])): (['fr','it','es'] as const).some(l=>hasTranslation(w[l])));
- const availableTotal=useMemo(()=>words.filter(respectsCoverage).length,[words,availability]);
- const counts=useMemo(()=>Object.fromEntries(CEFR_LEVELS.map(l=>[l,words.filter(w=>w.level===l&&respectsCoverage(w)).length])),[words,availability]);
+ const respectsCoverage=useCallback((w:Word)=>availability==='all'||(availability==='complete'?(['fr','it','es'] as const).every(l=>hasTranslation(w[l])): (['fr','it','es'] as const).some(l=>hasTranslation(w[l]))),[availability]);
+ const availableTotal=useMemo(()=>words.filter(respectsCoverage).length,[words,respectsCoverage]);
+ const counts=useMemo(()=>Object.fromEntries(CEFR_LEVELS.map(l=>[l,words.filter(w=>w.level===l&&respectsCoverage(w)).length])),[words,respectsCoverage]);
  const translated=useMemo(()=>words.filter(w=>['fr','it','es'].some(l=>hasTranslation(w[l as 'fr'|'it'|'es']))).length,[words]);
  const filtered=useMemo(()=>words.filter(w=>(level==='all'||w.level===level)&& (availability==='all'||(availability==='complete'?(['fr','it','es'] as const).every(l=>hasTranslation(w[l])): (['fr','it','es'] as const).some(l=>hasTranslation(w[l])))) &&(!query||[w.en,w.fr,w.it,w.es].some(s=>fold(s).includes(fold(query))))).sort((a,b)=>CEFR_LEVELS.indexOf(a.level??'B1')-CEFR_LEVELS.indexOf(b.level??'B1')||a.en.localeCompare(b.en)),[words,query,level,availability]);
  useEffect(()=>{const selected=new URLSearchParams(window.location.search).get('level');if(selected&&CEFR_LEVELS.some(l=>l===selected))setLevel(selected)},[]);

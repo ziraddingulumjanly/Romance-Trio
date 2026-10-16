@@ -1,6 +1,5 @@
 'use client';
 import {useEffect,useState} from 'react';
-import Link from 'next/link';
 import {X,ArrowUpRight,Mail,BookOpenText} from 'lucide-react';
 import Brand from './Brand';
 import {WORDS,hasTranslation} from '@/lib/vocabulary';
